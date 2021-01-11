@@ -24,19 +24,4 @@ Please cite an appropriate feff reference if the code or its results are used in
 
 **Please register your contact info for updates, news and workshops on the [FEFF10 Registration Page](https://docs.google.com/forms/d/1AHeer_ApfFkzJkIHJShcynl72Z61V2ouuv0BMbXRgfg)**
 
-FEFF10 User Manual can be found [here](/assets/doc/feff10_users_guide.pdf)
-
-  
- calling-birds: 
-   - huey
-   - dewey
-   - louie
-   - fred
- xmas-fifth-day: 
-   calling-birds: four
-   french-hens: 3
-   golden-rings: 5
-   partridges: 
-     count: 1
-     location: "a pear tree"
-   turtle-doves: two
+FEFF10 User Manual can be found [here](/assets/doc/feff10_users_guide.pdf).
