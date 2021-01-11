@@ -6,7 +6,7 @@ This software was prepared with support in part from the U.S. DOE, Office of Bas
 Distribution:  FEFF10.0
 Copyright (c) [2020] FEFF Project, University of Washington and SLAC National Accelerator Laboratory.  All rights reserved.  
 
-Please register your contact info for updates and news on the [FEFF10 Registration Page](https://docs.google.com/forms/d/1AHeer_ApfFkzJkIHJShcynl72Z61V2ouuv0BMbXRgfg)
+*Please register your contact info for updates and news on the [FEFF10 Registration Page](https://docs.google.com/forms/d/1AHeer_ApfFkzJkIHJShcynl72Z61V2ouuv0BMbXRgfg)*
   
  calling-birds: 
    - huey
