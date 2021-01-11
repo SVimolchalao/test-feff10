@@ -22,8 +22,8 @@ Please cite an appropriate feff reference if the code or its results are used in
 
 *Parameter-free calculations of x-ray spectra with FEFF9*, J.J. Rehr, J.J. Kas, F.D. Vila, M.P. Prange, K. Jorissen, Phys. Chem. Chem. Phys., 12, 5503-5513 (2010).
 
-**Please register your contact info for updates, news and workshops on the [FEFF10 Registration Page](https://docs.google.com/forms/d/1AHeer_ApfFkzJkIHJShcynl72Z61V2ouuv0BMbXRgfg).**
+**Please register your contact info for updates, news and workshops on the <a href="https://docs.google.com/forms/d/1AHeer_ApfFkzJkIHJShcynl72Z61V2ouuv0BMbXRgfg" target="_blank"><b>FEFF10 Registration Page</b></a>.**
 
-<a href="https://docs.google.com/forms/d/1AHeer_ApfFkzJkIHJShcynl72Z61V2ouuv0BMbXRgfg" target="_blank">FEFF10 Registration Page</a>
+
 
 FEFF10 User Manual can be found [here](/assets/doc/feff10_users_guide.pdf).
