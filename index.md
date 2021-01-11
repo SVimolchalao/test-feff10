@@ -17,8 +17,10 @@ Modified formats carry the marking "Based on or developed using Distribution: FE
 Recipient acknowledges the rights of the University of Washington and SLAC to prepare uses of this Distribution and its modifications that may be substantially similar or functionally equivalent to Recipient-prepared modifications.
 
 Please cite an appropriate feff reference if the code or its results are used in published work. The main reference for calculations using the current version feff10 is:
-Calculations of x-ray spectroscopies using FEFF10 and Corvus, J.J. Kas, F.D. Vila, D. Pemmaraju, Tun S. Tan, S. Vimolchalao, and J.J. Rehr, Unpublished, 2020.
-Parameter-free calculations of x-ray spectra with FEFF9, J.J. Rehr, J.J. Kas, F.D. Vila, M.P. Prange, K. Jorissen, Phys. Chem. Chem. Phys., 12, 5503-5513 (2010).
+
+*Calculations of x-ray spectroscopies using FEFF10 and Corvus*, J.J. Kas, F.D. Vila, D. Pemmaraju, Tun S. Tan, S. Vimolchalao, and J.J. Rehr, Unpublished, 2020.
+
+*Parameter-free calculations of x-ray spectra with FEFF9*, J.J. Rehr, J.J. Kas, F.D. Vila, M.P. Prange, K. Jorissen, Phys. Chem. Chem. Phys., 12, 5503-5513 (2010).
 
 **Please register your contact info for updates, news and workshops on the [FEFF10 Registration Page](https://docs.google.com/forms/d/1AHeer_ApfFkzJkIHJShcynl72Z61V2ouuv0BMbXRgfg)**
   
