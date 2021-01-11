@@ -1,5 +1,10 @@
 --- 
-![FEFF Logo](/image/logo.png)
+.site-title::before {
+content: url("/image/logo.jpg");
+display: inline-block;
+position: relative;
+width: 32px;
+top: 32px;
 
  doe: "a deer, a female deer"
  ray: "a drop of golden sun"
