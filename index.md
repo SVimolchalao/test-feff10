@@ -24,4 +24,6 @@ Please cite an appropriate feff reference if the code or its results are used in
 
 **Please register your contact info for updates, news and workshops on the [FEFF10 Registration Page](https://docs.google.com/forms/d/1AHeer_ApfFkzJkIHJShcynl72Z61V2ouuv0BMbXRgfg).**
 
+<a href="https://docs.google.com/forms/d/1AHeer_ApfFkzJkIHJShcynl72Z61V2ouuv0BMbXRgfg" target="_blank">FEFF10 Registration Page</a>
+
 FEFF10 User Manual can be found [here](/assets/doc/feff10_users_guide.pdf).
