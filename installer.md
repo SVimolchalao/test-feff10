@@ -1,3 +1,6 @@
+---
+title: Win installer
+filename: installer.md
 --- 
 # FEFF10
 
